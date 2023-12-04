@@ -156,3 +156,5 @@ Contributions are always welcome!
    
 
 5. *Akriti Jha*
+
+    -GitHub: [@JhaAakri](https://github.com/JhaAakri)
